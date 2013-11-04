@@ -1,0 +1,101 @@
+[
+    {
+        "args":
+        {
+            "characters": "KurogoDebug::"
+        },
+        "command": "insert"
+    },
+    {
+        "args":
+        {
+            "characters": "debug"
+        },
+        "command": "insert"
+    },
+    {
+        "args":
+        {
+            "contents": "($0)"
+        },
+        "command": "insert_snippet"
+    },
+    {
+        "args":
+        {
+            "characters": ",true"
+        },
+        "command": "insert"
+    },
+    {
+        "args":
+        {
+            "by": "characters",
+            "forward": true
+        },
+        "command": "move"
+    },
+    {
+        "args":
+        {
+            "characters": ";"
+        },
+        "command": "insert"
+    },
+    {
+        "args":
+        {
+            "by": "characters",
+            "forward": false
+        },
+        "command": "move"
+    },
+    {
+        "args":
+        {
+            "by": "characters",
+            "forward": false
+        },
+        "command": "move"
+    },
+    {
+        "args":
+        {
+            "by": "characters",
+            "forward": false
+        },
+        "command": "move"
+    },
+    {
+        "args":
+        {
+            "by": "characters",
+            "forward": false
+        },
+        "command": "move"
+    },
+    {
+        "args":
+        {
+            "by": "characters",
+            "forward": false
+        },
+        "command": "move"
+    },
+    {
+        "args":
+        {
+            "by": "characters",
+            "forward": false
+        },
+        "command": "move"
+    },
+    {
+        "args":
+        {
+            "by": "characters",
+            "forward": false
+        },
+        "command": "move"
+    }
+]
