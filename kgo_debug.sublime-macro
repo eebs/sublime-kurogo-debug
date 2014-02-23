@@ -2,14 +2,7 @@
     {
         "args":
         {
-            "characters": "KurogoDebug::"
-        },
-        "command": "insert"
-    },
-    {
-        "args":
-        {
-            "characters": "debug"
+            "characters": "kgo_debug"
         },
         "command": "insert"
     },
